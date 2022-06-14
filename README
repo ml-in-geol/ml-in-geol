@@ -1,0 +1,13 @@
+This repository is meant for hosting code discussed in the
+"Machine Learning in Geology" group at UIUC (6/8/22 - 8/3/22)
+
+
+Some of the examples here will require the machine learning library PyTorch.
+If you are using the anaconda python distribution it is easy to install with
+
+conda install pytorch torchvision torchaudio -c pytorch
+
+You will also need to have Jupyter notebooks installed
+
+conda install jupyter
+
